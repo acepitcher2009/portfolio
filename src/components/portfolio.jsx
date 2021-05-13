@@ -33,8 +33,8 @@ class Portfolio extends React.Component {
 										<strong>TO TRY AN APP OUT CLICK ONE OF THE BELOW LINKS</strong>
 									</p>
 								</div>
-								<div className="row">
-									<div className="col">
+								<div className="row justify-content-evenly justify-content-center">
+									<div className="col-3">
 										<a
 											className="chuckLink"
 											style={{ color: '#625AF2' }}
@@ -43,7 +43,7 @@ class Portfolio extends React.Component {
 											CHUCK NORRIS JOKE WARS
 										</a>
 									</div>
-									<div className="col">
+									<div className="col-3">
 										<a
 											style={{ color: '#625AF2' }}
 											href="https://acepitcher2009.github.io/MovieApp/"
@@ -51,7 +51,7 @@ class Portfolio extends React.Component {
 											Movie Search App
 										</a>
 									</div>
-									<div className="col">
+									<div className="col-3">
 										<a
 											style={{ color: '#625AF2' }}
 											href="https://acepitcher2009.github.io/typescriptQuiz/"
