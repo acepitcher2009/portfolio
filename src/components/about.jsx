@@ -86,17 +86,17 @@ class About extends React.Component {
 				{
 					id: 'first-p-about',
 					content:
-						'I am currently a Bachelor of Science studetn at Southern New Hampshire University. I am currently pursuing a bachelors degree in computer science with a concentration in software engineering. I have held a high GPA while attending Southern New Hampshire University.'
+						'I am currently a Bachelor of Science student at Southern New Hampshire University. I am currently pursuing a bachelors degree in computer science. I have maintained a high GPA while attending Southern New Hampshire University.'
 				},
 				{
 					id: 'second-p-about',
 					content:
-						"I have also attended a full stack web and mobile development bootcamp through Nucamp's Online bootcamp. Through this bootcamp i have learned the basics of web and mobile development using JavaScript and JavaScript framework such as, React, React Native, Node, Express, and MongoDB."
+						"I have also graduated from a full stack web and mobile development bootcamp through Nucamp's Online bootcamp. Through this bootcamp I have learned the basics of web and mobile development using JavaScript and JavaScript frameworks such as, React, React Native, Node, Express, and MongoDB."
 				},
 				{
 					id: 'third-p-about',
 					content:
-						'While attending both Southern New Hampshire University and the Fullstack web and mobile development bootcamp, I have found that my passion has been long overlooked. Creating applications and programming has not been apart of my life long but i find it very fun and entertaining. I hope to bring my passion into a team in order to aid in the development of cutting edge applications and technologies. '
+						'While attending both Southern New Hampshire University and the Fullstack web and mobile development bootcamp, I have found that my passion has been long overlooked. Creating applications and programming has not been apart of my life long but I find it very fun and entertaining. I hope to bring my passion into a team in order to aid in the development of cutting edge applications and technologies. '
 				}
 			]
 		};
