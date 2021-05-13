@@ -59,8 +59,8 @@ class About extends React.Component {
 				},
 				{
 					id: 'MongoDB_skill',
-					centent: 'MongoDB',
-					porcentage: '50%',
+					content: 'MongoDB',
+					percentage: '50%',
 					value: '50'
 				},
 				{
@@ -74,12 +74,6 @@ class About extends React.Component {
 					content: 'ExpressJS',
 					percentage: '45%',
 					value: '45'
-				},
-				{
-					id: 'Linux_skill',
-					content: 'Linux',
-					percentage: '60%',
-					value: '60'
 				},
 				{
 					id: 'C++_skill',
