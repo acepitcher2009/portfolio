@@ -29,26 +29,33 @@ class Portfolio extends React.Component {
 								</p>
 								<div className="line-mf" />
 								<p className="subtitle-a">To try one of these apps click one of the below links</p>
-								<p>
-									<a
-										className="chuckLink"
-										style={{ color: '#625AF2' }}
-										href="https://acepitcher2009.github.io/Chuck-Norris-Joke-wars/"
-									>
-										CHUCK NORRIS JOKE WARS
-									</a>
-									<br />
-									<a style={{ color: '#625AF2' }} href="https://acepitcher2009.github.io/MovieApp/">
-										Movie Search App
-									</a>
-									<br />
-									<a
-										style={{ color: '#625AF2' }}
-										href="https://acepitcher2009.github.io/typescriptQuiz/"
-									>
-										React/Typescript QUIZ
-									</a>
-								</p>
+								<div className="row">
+									<div className="col">
+										<a
+											className="chuckLink"
+											style={{ color: '#625AF2' }}
+											href="https://acepitcher2009.github.io/Chuck-Norris-Joke-wars/"
+										>
+											CHUCK NORRIS JOKE WARS
+										</a>
+									</div>
+									<div className="col">
+										<a
+											style={{ color: '#625AF2' }}
+											href="https://acepitcher2009.github.io/MovieApp/"
+										>
+											Movie Search App
+										</a>
+									</div>
+									<div className="col">
+										<a
+											style={{ color: '#625AF2' }}
+											href="https://acepitcher2009.github.io/typescriptQuiz/"
+										>
+											React/Typescript QUIZ
+										</a>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
