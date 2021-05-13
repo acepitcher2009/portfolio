@@ -28,7 +28,11 @@ class Portfolio extends React.Component {
 									Please take a look at some of the projects that I have built.
 								</p>
 								<div className="line-mf" />
-								<p className="subtitle-a">To try one of these apps click one of the below links</p>
+								<div className="row justify-content-center mt-4">
+									<p className="subtitl-a">
+										<strong>TO TRY AN APP OUT CLICK ONE OF THE BELOW LINKS</strong>
+									</p>
+								</div>
 								<div className="row">
 									<div className="col">
 										<a
@@ -146,9 +150,9 @@ class Portfolio extends React.Component {
 						</div>
 						<div className="col-md-6">
 							<div className="work-box">
-								<a href={stock9} data-lightbox="gallery-vmarine">
+								<a href={stock8} data-lightbox="gallery-vmarine">
 									<div className="work-img">
-										<img src={stock9} alt="" className="img-fluid" />
+										<img src={stock8} alt="" className="img-fluid" />
 									</div>
 									<div className="work-content">
 										<div className="row">
@@ -175,9 +179,6 @@ class Portfolio extends React.Component {
 											</div>
 										</div>
 									</div>
-								</a>
-								<a href={stock8} data-lightbox="gallery-vmarine" style={{ display: 'none' }}>
-									jsx-a11y/anchor-has-content warning
 								</a>
 								<a href={stock9} data-lightbox="gallery-vmarine" style={{ display: 'none' }}>
 									jsx-a11y/anchor-has-content warning
