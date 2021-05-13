@@ -81,11 +81,10 @@ class Portfolio extends React.Component {
 													<br />
 													<p>
 														<strong>
-															In this app we retrieve random Chuck Norris jokes from a
-															Chuck Norris joke databse using fetch apis.<br />Once the
-															jokes are loaded the user votes which joke they like best.<br />After
-															the user finishes they can then view the jokes that were
-															voted on.
+															In this app random Chuck Norris jokes are retrieved from the
+															chucknorris.io API.<br />Once the jokes are loaded the user
+															votes which joke they like best.<br />After the user
+															finishes they can then view the jokes that were voted on.
 														</strong>
 													</p>
 													<hr />
@@ -123,11 +122,11 @@ class Portfolio extends React.Component {
 													<br />
 													<p>
 														<strong>
-															In this app we retrieve random moview from the OMDB databse
-															using fetch apis.<br />Once the movies are loaded the user
-															can search for their favorite movies.<br />When the movies
-															are returned the user can then add their favorite movies to
-															their favorites list.
+															In this app random movies are retrieved from the OMDB
+															databse using fetch apis.<br />Once the movies are loaded
+															the user can search for their favorite movies.<br />When the
+															movies are returned the user can then add their favorite
+															movies to their favorites list.
 														</strong>
 													</p>
 													<hr />
@@ -165,7 +164,7 @@ class Portfolio extends React.Component {
 													<br />
 													<p>
 														<strong>
-															In this app we retrieve 10 random questions from the Open
+															In this app 10 random questions are retrieved from the Open
 															Trivia DB API.<br />Once the user clicks the start button
 															the questions and answer choices are loaded.<br />When the
 															user selects an answer feedback is given if the answer is
