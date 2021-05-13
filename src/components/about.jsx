@@ -76,12 +76,6 @@ class About extends React.Component {
 					value: '45'
 				},
 				{
-					id: 'C++_skill',
-					content: 'C++',
-					percentage: '50%',
-					value: '50'
-				},
-				{
 					id: 'jquery_skill',
 					content: 'jQuery',
 					percentage: '60%',
