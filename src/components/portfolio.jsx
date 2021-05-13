@@ -28,6 +28,27 @@ class Portfolio extends React.Component {
 									Please take a look at some of the projects that I have built.
 								</p>
 								<div className="line-mf" />
+								<p className="subtitle-a">To try one of these apps click one of the below links</p>
+								<p>
+									<a
+										className="chuckLink"
+										style={{ color: '#625AF2' }}
+										href="https://acepitcher2009.github.io/Chuck-Norris-Joke-wars/"
+									>
+										CHUCK NORRIS JOKE WARS
+									</a>
+									<br />
+									<a style={{ color: '#625AF2' }} href="https://acepitcher2009.github.io/MovieApp/">
+										Movie Search App
+									</a>
+									<br />
+									<a
+										style={{ color: '#625AF2' }}
+										href="https://acepitcher2009.github.io/typescriptQuiz/"
+									>
+										React/Typescript QUIZ
+									</a>
+								</p>
 							</div>
 						</div>
 					</div>
@@ -57,19 +78,7 @@ class Portfolio extends React.Component {
 														</strong>
 													</p>
 													<hr />
-													<em>
-														CLICK THE IMAGE TO SEE PHOTOS OF THE APP<br />OR<br />TO TRY
-														THIS APP, CLICK HERE{' '}
-														<strong>
-															<a
-																className="chuckLink"
-																style={{ color: '#625AF2' }}
-																href="https://acepitcher2009.github.io/Chuck-Norris-Joke-wars/"
-															>
-																CHUCK NORRIS JOKE WARS
-															</a>
-														</strong>
-													</em>
+													<em>CLICK THE IMAGE TO SEE PHOTOS OF THE APP</em>
 												</div>
 											</div>
 										</div>
@@ -111,18 +120,7 @@ class Portfolio extends React.Component {
 														</strong>
 													</p>
 													<hr />
-													<em>
-														CLICK THE IMAGE TO SEE PHOTOS OF THE APP<br />OR<br />TO TRY
-														THIS APP, CLICK HERE{' '}
-														<strong>
-															<a
-																style={{ color: '#625AF2' }}
-																href="https://acepitcher2009.github.io/MovieApp/"
-															>
-																Movie Search App
-															</a>
-														</strong>
-													</em>
+													<em>CLICK THE IMAGE TO SEE PHOTOS OF THE APP</em>
 												</div>
 											</div>
 										</div>
@@ -165,18 +163,7 @@ class Portfolio extends React.Component {
 														</strong>
 													</p>
 													<hr />
-													<em>
-														CLICK THE IMAGE TO SEE PHOTOS OF THE APP<br />OR<br />TO TRY
-														THIS APP, CLICK HERE{' '}
-														<strong>
-															<a
-																style={{ color: '#625AF2' }}
-																href="https://acepitcher2009.github.io/typescriptQuiz/"
-															>
-																QUIZ
-															</a>
-														</strong>
-													</em>
+													<em>CLICK THE IMAGE TO SEE PHOTOS OF THE APP</em>
 												</div>
 											</div>
 										</div>
